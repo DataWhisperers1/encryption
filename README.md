@@ -43,7 +43,7 @@ pip install pycryptodome
 
 
 
-git clone https://github.com/اسم_المستودع
+git clone https://github.com/DataWhisperers1/encryption/
 
 2. انتقل إلى مجلد المشروع:
 
