@@ -36,26 +36,29 @@
 
 ```bash
 pip install pycryptodome
+```
 
 تثبيت وتشغيل الأداة
 
 1. قم باستنساخ المستودع:
 
 
-
+```
 git clone https://github.com/DataWhisperers1/encryption/
+```
 
 2. انتقل إلى مجلد المشروع:
 
 
-
+```
 cd encryption
-
+```
 3. قم بتشغيل الأداة:
 
 
-
+```
 python encryption.py
+```
 
 مساهمات
 
